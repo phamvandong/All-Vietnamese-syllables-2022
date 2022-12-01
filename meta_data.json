@@ -1,0 +1,22 @@
+{
+    "tone": {
+        "blank": "a,ă,â,e,ê,i,o,ô,ơ,u,ư,y,iê,oa,oă,oe,oo,uâ,uê,uô,uơ,uy,ươ,uyê,yê ",
+        "grave": "á,ắ,ấ,é,ế,é,ó,ố,ớ,ú,ứ,ý,iế,oá,oắ,oé,oó,uấ,uế,uố,uớ,uý,ướ,uyế,yế ",
+        "acute": "à,ằ,ầ,è,ề,ì,ò,ồ,ờ,ù,ừ,ỳ,iề,oà,oằ,oè,oò,uầ,uề,uồ,uờ,uỳ,ườ,uyề,yề ",
+        "hook": "ả,ẳ,ẩ,ẻ,ể,ỉ,ỏ,ổ,ở,ủ,ử,ỷ,iể,oả,oẳ,oẻ,oỏ,uẩ,uể,uổ,uở,uỷ,ưở,uyể,yể ",
+        "tilde": "ã,ẵ,ẫ,ẽ,ễ,ĩ,õ,ỗ,ỡ,ũ,ữ,ỹ,iễ,oã,oẵ,oẽ,oõ,uẫ,uễ,uỗ,uỡ,uỹ,ưỡ,uyễ,yễ ",
+        "dot": "ạ,ặ,ậ,ẹ,ệ,ị,ọ,ộ,ợ,ụ,ự,ỵ,iệ,oạ,oặ,oẹ,oọ,uậ,uệ,uộ,uợ,uỵ,ượ,uyệ,yệ "
+    },
+    "rimes": {
+        "blue": "blank,grave,acute,hook,tilde,dot",
+        "red": "grave,dot",
+        "yellow": "blank,grave,acute,hook,tilde,dot"
+    },
+    "notation": {
+        "0": "",
+        "1": "blue",
+        "2": "red",
+        "3": "yellow"
+    },
+    "onset": "ngh,ng,gh,g,k,c,b,d,h,l,m,n,p,r,s,t,v,x,đ,tr,th,ch,ph,nh,kh,gi,qu"
+}
